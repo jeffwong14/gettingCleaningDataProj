@@ -18,6 +18,7 @@ The function analyse the data in follow steps
 5. Merge the data dictionary and get the activity name, then remove the activity code column
 6. Assign descriptive variable names to the data columns
 7. reshape the data sets into tidy data set with average of each variable for each activity and each subject
+
 - - -
 
 ## Code Book
